@@ -1,0 +1,20 @@
+{
+    "name": "EasyLog",
+    "version": "1.0.1",
+    "description": "Easy to use logging library for Arduino",
+    "keywords": "arduino, atmel, esp8266, log, logger, logging, trace, error, warning, info, debug",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marek-dabek/EasyLog"
+    },
+    "authors": [
+        {
+            "name": "Marek Dabek",
+            "url": "https://www.marekdabek.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
